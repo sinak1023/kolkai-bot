@@ -16,7 +16,7 @@ https://klokapp.ai?referral_code=32TC5MXL
 
 و حال توکن های هر اکانت رو در یک خط در فایل زیر میذاریم:
 
-    `nano token.txt`
+    nano token.txt
 
 برای گرفتن توکن یه F12 بزنین و از بخش Local storage قسمت session_token رو بردارید
 
