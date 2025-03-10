@@ -2,7 +2,9 @@
 
 بدون نیاز به هرگونه پراویت کی ولت
 اول از همه با لینک زیر ثبت نام کنین
+
 https://klokapp.ai?referral_code=32TC5MXL
+
 بات نیاز به nodejs نسخه 18 به بالا داره
 پس پیش نیازاش رو نصب کنین
 با دستور زیر ریپو رو توی سرور خودتون کلون کنین:
@@ -13,7 +15,7 @@ https://klokapp.ai?referral_code=32TC5MXL
     npm install axios uuid fs
 
 و حال توکن های هر اکانت رو در یک خط در فایل زیر میذاریم:
-    nano token.txt
+    `nano token.txt`
 
 برای گرفتن توکن یه F12 بزنین و از بخش Local storage قسمت session_token رو بردارید
 
